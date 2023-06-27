@@ -1,3 +1,9 @@
+# This is a clone of the Kanban
+
+## Live Link : https://mercor-kanban2.netlify.app/
+
+### This project is made with the help of ReactJs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
